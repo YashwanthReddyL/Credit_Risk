@@ -1,7 +1,3 @@
-Perfect 🔥
-Now I’ll give you a clean, professional, recruiter-ready README that you can directly paste into your README.md before uploading to GitHub.
-
-This is written in proper production-style documentation format.
 
 📌 Credit Risk Prediction System
 Production-Ready Machine Learning Pipeline for Loan Default Prediction
